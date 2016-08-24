@@ -1,0 +1,12 @@
+use strick;
+use warnings;
+
+use LWP::Simple;
+
+sub main {
+
+	get("http://news.bbc.co.uk");
+}
+
+main();
+

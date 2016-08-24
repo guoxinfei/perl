@@ -1,0 +1,14 @@
+#use strick;
+use warnings;
+
+use LWP::Simple;
+
+sub main {
+
+	print "Downloading....!\n";
+	#print get("http://news.bbc.co.uk");
+	print "finished\n";
+}
+
+main();
+

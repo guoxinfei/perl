@@ -1,0 +1,9 @@
+use strick;
+use warnings;
+
+sub main {
+
+}
+
+main();
+

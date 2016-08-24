@@ -1,0 +1,11 @@
+use strick;
+use warnings;
+
+use LWP::Simple;
+
+sub main {
+
+}
+
+main();
+
