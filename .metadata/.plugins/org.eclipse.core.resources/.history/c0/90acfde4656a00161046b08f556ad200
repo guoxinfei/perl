@@ -1,0 +1,9 @@
+use strict;
+use warnings;
+
+sub main {
+	if(-f '/Users/XinfeiGuo/Documents/perl/Tutorial4/logo.jpg')
+	
+}
+
+main();

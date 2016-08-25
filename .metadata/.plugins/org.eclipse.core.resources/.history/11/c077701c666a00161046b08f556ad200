@@ -1,0 +1,18 @@
+use strict;
+use warnings;
+
+sub main {
+	
+	my $file = '/Users/XinfeiGuo/Documents/perl/Tutorial4/logo.jpg';
+	
+	if(-f '/Users/XinfeiGuo/Documents/perl/Tutorial4/logo.jpg') {
+		print "Found file\n";
+	}
+	
+	else {
+		print "File not found";
+	}
+	
+}
+
+main();
