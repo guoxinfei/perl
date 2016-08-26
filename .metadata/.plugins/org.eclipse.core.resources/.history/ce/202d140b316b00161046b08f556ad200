@@ -1,0 +1,10 @@
+use struct;
+use warning;
+
+$|=1;
+
+sub main {
+	my $file = '/Users/XinfeiGuo/Documents/perl/Tutorial5/new.txt'
+}
+
+main();
