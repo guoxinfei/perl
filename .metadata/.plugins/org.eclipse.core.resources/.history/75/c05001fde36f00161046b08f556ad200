@@ -1,0 +1,17 @@
+use strict;
+use warnings;
+
+$| = 1;
+
+sub main {
+	my $text = 'The code for this device is GP8282.';
+	if ($text =~ /(GP\d{4})/) {
+		print "Found the code: $text\n"
+	}
+	else {
+		print "Not found.";
+	}
+	
+}
+
+main();
