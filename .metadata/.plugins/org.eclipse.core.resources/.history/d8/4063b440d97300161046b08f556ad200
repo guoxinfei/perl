@@ -1,0 +1,9 @@
+use strict;
+use warnings;
+
+use Data::Dumper;
+
+my @animals = ('dog','cat','rabit');
+my @values;
+push @values,@animals;
+

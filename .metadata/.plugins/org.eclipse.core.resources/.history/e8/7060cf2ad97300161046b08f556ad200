@@ -1,0 +1,6 @@
+use strict;
+use warnings;
+
+my @animals = ('dog','cat','rabit');
+my @values;
+push @values,@
