@@ -1,0 +1,19 @@
+use strict;
+use warnings;
+
+use Data::Dumper;
+
+$| = 1;
+
+sub main {
+	my %months = (
+		"Jan"   => 1,
+		"Feb"   => 2,
+		"March" => 3,
+		"June"  => 6,
+	);
+	
+	print $months{};
+}
+
+main();
