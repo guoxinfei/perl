@@ -1,6 +1,0 @@
-use struct;
-use warning;
-
-sub main {
-	
-}
