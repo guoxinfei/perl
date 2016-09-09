@@ -1,0 +1,21 @@
+use strict;
+use warnings;
+
+use Data::Dumper;
+
+$| = 1;
+
+sub main{
+	my %foods = (
+		"cats" => "milk",
+		"dogs" => "meat",
+		"birds" => "seeds",	
+	);
+	
+	while(my ($key,$value) = each %foods) {
+		
+	}
+	
+}
+
+main();
