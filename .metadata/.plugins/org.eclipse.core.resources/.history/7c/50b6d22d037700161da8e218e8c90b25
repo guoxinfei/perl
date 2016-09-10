@@ -1,0 +1,17 @@
+use strict;
+use warnings;
+
+use Data::Dumper;
+
+$| = 1;
+
+sub main {
+	my %hash1 = (
+		"cat" => "meat",
+		"birds" => "seeds",
+		"fish" => "worms",
+	);
+	
+}
+
+main();
